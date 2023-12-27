@@ -1,6 +1,6 @@
 const AWS = require("aws-sdk");
 // name of your bucket here
-const NAME_OF_BUCKET = "NAME_OF_BUCKET";
+const NAME_OF_BUCKET = "albums-bucket";
 
 const multer = require("multer");
 
